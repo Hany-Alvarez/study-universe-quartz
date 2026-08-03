@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.folder == "😺Sin Categoría"
+views:
+  - type: table
+    name: Tabla
+    filters:
+      and:
+        - file.folder == "😺Sin Categoría"
+  - type: notion-table
+    name: Vista
+    order:
+      - file.name
+      - file.size
+      - file.ctime
