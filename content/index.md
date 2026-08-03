@@ -6,8 +6,8 @@ description: Mi biblioteca de conocimiento.
 # Bienvenido a Study Universe
 
 Este sitio contiene mis apuntes y documentación.
-![[😺Sin Categoría]]
-![[Clasificación de Plugins de Obsidian.md]]
+- [[😺Sin Categoría]]
+- [[Clasificación de Plugins de Obsidian.md]]
 
 
 ## Explorar
