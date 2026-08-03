@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-15T10:29:13.155Z
-modified: 2026-08-03T19:23:11.880Z
+modified: 2026-08-03T21:40:22.162Z
 tags:
   - activity/hike
   - activity/walk
@@ -10,7 +10,7 @@ tags:
   - option-b
 ---
 
-![|647x375](https://i.imgur.com/kSvXE5K.png)
+![|1480x150](https://i.imgur.com/kSvXE5K.png)
 
 ## 1. 3D Codeblocks
 
@@ -2523,7 +2523,50 @@ $\,$
 
 ![[😺Sin Categoría/Anexos/Share as ZIP.png]]
 
-## 150.
+## 150. Share Note
+
+> Pública las notas como [sitios web](https://share.note.sx/0kyvrem3#DZ8U6txes6UQChEZ0pbT9A)
+
+## 151. Sheets Extended
+
+> Por medio de bloques permite usar funcionalidades de fusión de columnas... ^jz8wkz
+
+```sheet
+{
+    classes: { 
+        class1: { 
+            "color": "cyan",
+        },
+        class2: {
+            backgroundColor: "#555",
+        }
+    },
+}
+---
+| I                 | -   | have | meta                  | data        | too! |
+| ----------------- | --- | ---- | --------------------- | ----------- | ---- |
+| group 1           | -   | foo  | bar ~ .class1 .class2 | baz         | test |
+| group 2 ~ .class1 | -   | 1    | ^                     | 3 ~ .class2 | 4    |
+
+```
+
+\`
+
+```sheet
+
+| I        | -   | have | horizontal | headers |
+| -------- | --- | ---- | ---------- | ------- |
+| also     | -   | foo  | bar        | <       |
+| have     | -   | 1    | 2          | 3       |
+| vertical | -   | A    | B          | C       |
+| headers! | -   | X    | Y          | Z       |
+```
+
+## 152. SideCars
+
+> Es un dashboard para agregar notas que salen como pendientes
+
+![[😺Sin Categoría/Anexos/SideCars.png]]
 
 ---
 
