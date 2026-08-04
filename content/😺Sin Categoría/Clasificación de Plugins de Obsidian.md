@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-15T10:29:13.155Z
-modified: 2026-08-04T08:06:47.366Z
+modified: 2026-08-04T17:31:33.910Z
 tags:
   - activity/hike
   - activity/walk
@@ -341,8 +341,11 @@ Con la desventaja de no incrustar imágenes
 > - **Desventajas:** Con canvas muy grandes existe una línea de error
 
 <iframe src="file:///C:\Seagate Expansion\Universidad\Obsidian\Study Platform\🗳️Export Canva/index.html" width="100%" height="500px"></iframe>
+## 27. Canvas Kit
+> Es muy completo para la edición de un canvas
+![[image-49.png]]
 
-## 27. Canvas MindMap
+## 28. Canvas MindMap
 
 > Sirve para activar ciertas funcionalidades para crear fácilmente
 >
@@ -358,19 +361,19 @@ Con la desventaja de no incrustar imágenes
 
 ![[😺Sin Categoría/Anexos/Canvas MindMap.png|291]]
 
-## 28. Canvas Minimap
+## 29. Canvas Minimap
 
 > Genera un mini mapa para una visualización general del canvas
 
 ![[😺Sin Categoría/Anexos/Canvas Minimap.png|443]]
 
-## 29. Canvas Send to Bac
+## 30. Canvas Send to Bac
 
 > Se utiliza para colocar abajo o arriba los elementos en Canvas (esto puede ser muy útil para ocultar los nombres de los elementos)
 
 ![[😺Sin Categoría/Anexos/Pasted image 20260705202821.png|416]]
 
-## 30. Card View
+## 31. Card View
 
 > Son bloques de código que permiten renderizar de forma estética información de diferentes categorías
 
@@ -437,7 +440,7 @@ url: https://163cn.tv/Ial8GCT
 </div>
 ```
 
-## 31. Card Note
+## 32. Card Note
 
 > Se representa con el emoji de ✨ y presenta diferentes usos
 
@@ -458,7 +461,7 @@ url: https://163cn.tv/Ial8GCT
 - **Card View**
   - ![[😺Sin Categoría/Anexos/Card View-CardNote.png|Permite buscar archivos de una forma más visual]]
 
-## 32. Charted Roots
+## 33. Charted Roots
 
 > Este plugin tiene muchas funcionalidades pero dicho de forma general, se utiliza para llevar un registro históricos de lugares, personas y todo tipo de **entidades** (No se ha explorado a fondo)
 >
@@ -467,11 +470,11 @@ url: https://163cn.tv/Ial8GCT
 - **Recomendación:** 🚨Revisar en desarrollo de temas históricos
   ![[😺Sin Categoría/Anexos/Charted Roots.png]]
 
-## 33. ChartSpark
+## 34. ChartSpark
 
 > Genera gráficos
 
-### 33.1. Con Templates
+### 34.1. Con Templates
 
 ```chartspark
 {
@@ -623,7 +626,7 @@ url: https://163cn.tv/Ial8GCT
 }
 ```
 
-### 33.2. Con una tabla base
+### 34.2. Con una tabla base
 
 | Fruta   | Precio |
 | ------- | ------ |
@@ -704,11 +707,11 @@ url: https://163cn.tv/Ial8GCT
 }
 ```
 
-### 33.3. Gráfico de toda la bóveda
+### 34.3. Gráfico de toda la bóveda
 
 > Por razones de memoria no se renderiza aquí
 
-## 34. Chronology
+## 35. Chronology
 
 > Guarda el registro de notas visitadas por día en una interfaz de calendario
 >
@@ -716,11 +719,11 @@ url: https://163cn.tv/Ial8GCT
 > > 🟢Modificado
 > > ![[😺Sin Categoría/Anexos/Chronology.png|319]]
 
-## 35. Chronos Timeline
+## 36. Chronos Timeline
 
 > Tiene muchas formas de crear _**Líneas de tiempo**_ desde plantillas hasta generados por IA (se necesita Api de pago así que no se configurará)
 
-### 35.1. Example
+### 36.1. Example
 
 ```chronos
 @ [1888-09-26~1965-01-04] {T.S. Eliot} Life: 1888-1965
@@ -777,11 +780,11 @@ $\,$
 
 Hay mucho más por explorar!
 
-### 35.2. Bases View
+### 36.2. Bases View
 
 ![[😺Sin Categoría/Anexos/Bases View - Chronos Timeline.png]]
 
-## 36. Circuit Sketcher
+## 37. Circuit Sketcher
 
 > Sirve para bocetar [circuitos eléctricos](https://youtu.be/S6ifgDb83Pg?si=rZGYj7T1quYc_yRo)
 
@@ -793,7 +796,7 @@ Hay mucho más por explorar!
 
 ![[Circuito Prueba 1.circuit-sketcher]]
 
-## 37. CircuitJS
+## 38. CircuitJS
 
 > Es un simulador de circuitos
 
@@ -818,7 +821,7 @@ o 0 64 0 4099 0.625 0.05 2 2 0 3
 h 1 4 3
 ```
 
-## 38. cMenu
+## 39. cMenu
 
 > Crea un menú flotante de acceso directo
 
@@ -828,13 +831,13 @@ h 1 4 3
 
 ![[😺Sin Categoría/Anexos/cMenu.png]]
 
-## 39. Code Styler
+## 40. Code Styler
 
 > Permite personalizar los bloques de código
 
 - Se debe profundizar en su uso (...)
 
-### 39.1. Bloque de Código
+### 40.1. Bloque de Código
 
 ```Python title:Ejemplo
 a=1
@@ -844,18 +847,18 @@ c=2
 
 ```
 
-### 39.2. Línea de Código
+### 40.2. Línea de Código
 
 `{Python icon title:Ejemplo} print("This is inline code")`
 
-## 40. Commander
+## 41. Commander
 
 > Se utiliza para crear comando en la barra de opciones
 
 - (...)
   ![[😺Sin Categoría/Anexos/Commander.png]]
 
-## 41. Contact Note
+## 42. Contact Note
 
 > Crea un sección para los contactos
 
@@ -863,11 +866,11 @@ c=2
 
 ![[😺Sin Categoría/Anexos/Contact Note.png]]
 
-## 42. Content Cards
+## 43. Content Cards
 
 > Tiene diseños predeterminados de tarjetas personalizables
 
-### 42.1. horizontal timeline
+### 43.1. horizontal timeline
 
 ```cards-timeline-h
 @card
@@ -883,7 +886,7 @@ content:
 描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述描述
 ```
 
-### 42.2. Highlightblock
+### 43.2. Highlightblock
 
 ```cards-highlightblock
 @card [color-red]
@@ -895,7 +898,7 @@ content:
 示例文字
 ```
 
-### 42.3. Target card
+### 43.3. Target card
 
 ```cards-target
 @card [color-red]
@@ -909,7 +912,7 @@ value: 1,200
 unit: 元
 ```
 
-### 42.4. book information card
+### 43.4. book information card
 
 ```cards-book
 @card 
@@ -924,7 +927,7 @@ introduction:
 街上出现了第一个突然失明的人，紧接着是第二个、第三个……  一种会传染的失明症在城市蔓延，无人知晓疫情为何爆发、何时结束。  失明症造成了前所未有的恐慌与灾难
 ```
 
-### 42.5. Music information card
+### 43.5. Music information card
 
 ```cards-music
 @card
@@ -935,7 +938,7 @@ Autor: Twenty One Pilots
 Genero: Rock
 ```
 
-### 42.6. Movie information card
+### 43.6. Movie information card
 
 ```cards-movie
 @card
@@ -951,7 +954,7 @@ introduction:
 在并不遥远的未来，太阳急速衰老与膨胀，再过几百年整个太阳系将被它吞噬毁灭。为了应对这场史无前例的危机，地球各国放下芥蒂，成立联合政府，试图寻找人类存续的出路。通过摸索与考量，最终推着地球逃出太阳系的“移山计划”获得压倒性胜利。人们着手建造上万台巨大的行星发动机，带着地球踏上漫漫征程。满腔赤诚的刘培强（吴京 饰）和韩朵朵（王智 饰）历经层层考验成为航天员大队的一员，并由此相知相恋。但是漫漫征途的前方，仿佛有一股神秘的力量不断破坏者人类的自救计划。看似渺小的刘培强、量子科学家图恒宇（刘德华 饰）、联合政府中国代表周喆直（李雪健 饰）以及无数平凡的地球人，构成了这项伟大计划的重要一环……
 ```
 
-### 42.7. photoes ablum
+### 43.7. photoes ablum
 
 > La distribución de tamaños depende de los espacios
 
@@ -978,7 +981,7 @@ https://i.pinimg.com/736x/12/f2/e4/12f2e49ed8daf503dad8122996aef978.jpg
 https://i.pinimg.com/1200x/05/1f/6b/051f6b5112ed7ea6832fbd90628f1478.jpg
 ```
 
-### 42.8. Countdown
+### 43.8. Countdown
 
 ```cards-countdown
 @card [color-cyan]
@@ -987,7 +990,7 @@ type: day
 time: 2026-01-01
 ```
 
-### 42.9. SWOT
+### 43.9. SWOT
 
 ```cards-swot
 @card
@@ -1007,7 +1010,7 @@ t-content:
 1. 第三象限内容第三象限内容
 ```
 
-### 42.10. BCG
+### 43.10. BCG
 
 ```cards-bcg
 @card
@@ -1031,7 +1034,7 @@ a4-content:
 4. neiddddd
 ```
 
-## 43. Obsidian Copy Block Link
+## 44. Copy Block Link
 
 > Enlaza textos específicos con códigos
 
@@ -1041,7 +1044,12 @@ Ejemplos de texto ^14bry7
 
 ![[😺Sin Categoría/Clasificación de Plugins de Obsidian#^14bry7]]
 
-## 44. Cornell Marginalia
+## 45. Copy for Email and Chat
+
+> Hace que el pegado sea lo más parecido a la nota
+> ![[😺Sin Categoría/Anexos/Copy for Email and Chat.png]]
+
+## 46. Cornell Marginalia
 
 > Este plugin se enfoca en el aprendizaje **Active Recall**
 
@@ -1049,7 +1057,7 @@ Ejemplos de texto ^14bry7
   - Aun no se como sincronizar las flashcard con Anki
   - No se ven bien los cornell de forma minimizada
 
-### 44.1. Notas con Cornell
+### 46.1. Notas con Cornell
 
 > Se puede visualizar donde se ubica exactamente el cornell con la opción de **Alternal Visual Helper (Cornell)** 📍
 
@@ -1072,7 +1080,7 @@ Hello!
 
 Este es un dibujo
 
-### 44.2. Flashcards
+### 46.2. Flashcards
 
 > Si se quiere estudiar desde la propia nota se activa la opción de **Active Recall Mode** 👁️
 
@@ -1082,7 +1090,7 @@ La mitocondria produce energía.&#x20;
   - Genera al final de la nota todas las cornell con los (;;)
   - ![[😺Sin Categoría/Anexos/Pasted image 20260713155601.png]]
 
-### 44.3. Rhizome Time Machine (Máquina del tiempo rizomática)
+### 46.3. Rhizome Time Machine (Máquina del tiempo rizomática)
 
 > Es un espacio para visualizar todos los cornell realizado
 >
@@ -1090,7 +1098,7 @@ La mitocondria produce energía.&#x20;
 
 ![[😺Sin Categoría/Anexos/Pasted image 20260713164701.png]]
 
-### 44.4. Cornell Dashboard
+### 46.4. Cornell Dashboard
 
 > Es un buen organizador para
 >
@@ -1099,23 +1107,23 @@ La mitocondria produce energía.&#x20;
 
 ![[😺Sin Categoría/Anexos/Cornell Dashboard.png]]
 
-### 44.5. Marginalia Explorer
+### 46.5. Marginalia Explorer
 
 ![[😺Sin Categoría/Anexos/Marginalia Explorer.png]]
 
-## 45. Crafty
+## 47. Crafty
 
 > Proporciona un panel para hacer anotaciones a cada elemento de un canvas
 
 ![[😺Sin Categoría/Anexos/Crafty.png]]
 
-## 46. Custom Frames
+## 48. Custom Frames
 
 > Da la opción de embeber paginas web como Google Calendar
 
 ![[😺Sin Categoría/Anexos/Custom Frames.png|474]]
 
-## 47. D2
+## 49. D2
 
 > Es un plugin que ejecuta el lenguaje de programación D2, el cuál genera diagramas estilo png
 
@@ -1142,7 +1150,7 @@ flowchart LR
 	Start --> Stop
 ```
 
-## 48. Dataview
+## 50. Dataview
 
 > Es un plugin utilizado para visualizar bases de datos en obsidian
 
@@ -1151,34 +1159,34 @@ flowchart LR
 | File | time-played | length | rating |
 | ---- | ----------- | ------ | ------ |
 
-## 49. Decks
+## 51. Decks
 
 > Es un plugin enfocado en flashcards
 
 - Las formas de escritura se encuentran [[Decks — Primeros pasos|aquí]]
 - **Dato:** para poder eliminar un mazo, se debe eliminar completamente la nota (se puede `ctrl+A` en caso de querer perder la información)
 
-### 49.1. Canvas decks
+### 51.1. Canvas decks
 
 ![[😺Sin Categoría/Anexos/Pasted image 20260715043926.png]]
 
-### 49.2. Decks Template
+### 51.2. Decks Template
 
 Aun en proceso de uso
 
-### 49.3. Flashcards
+### 51.3. Flashcards
 
 Como se pueden generar flash card a partir del formato `::` se pueden migrar y así hacer útil las flashcard de [[😺Sin Categoría/Clasificación de Plugins de Obsidian#40. Cornell Marginalia|cornell]]
 
 ![[😺Sin Categoría/Anexos/decks dato.png| La nota a migrar debe tener la `tags: #flascards`]]
 
-## 50. Desk
+## 52. Desk
 
 > Se utiliza para dar una visualización estilo tarjeta del vaúlt
 
 ![[😺Sin Categoría/Anexos/Desk.png]]
 
-## 51. Diagrams.Net
+## 53. Diagrams.Net
 
 > Permite crear y modificar diagramas directamente
 
@@ -1187,7 +1195,12 @@ Como se pueden generar flash card a partir del formato `::` se pueden migrar y a
 
 ![[Anexos/Diagram.svg]]
 
-## 52. Draw in Canvas
+## 54. Dragger
+
+> Permite desplazar el texto dentro de la nota como un bloque
+> ![[😺Sin Categoría/Anexos/Dragger.png]]
+
+## 55. Draw in Canvas
 
 > Permite dibujar en un canvas
 
@@ -1197,7 +1210,7 @@ Como se pueden generar flash card a partir del formato `::` se pueden migrar y a
 
 > ![[😺Sin Categoría/Anexos/Draw in Canvas.png|627]]
 
-## 53. draw.io
+## 56. draw.io
 
 > Este plugin es el más completo que he visto en generación de gráficos ya que agrega funcionalidades interactivas (aun en proceso de aprendizaje)
 
@@ -1206,7 +1219,7 @@ Como se pueden generar flash card a partir del formato `::` se pueden migrar y a
 
 ![[1784311876497.drawio.svg]]
 
-## 54. Drive Embedder
+## 57. Drive Embedder
 
 > Este plugin permite subir archivos rápidamente a drive e incrustarlos en los archivos
 
@@ -1256,7 +1269,7 @@ Como se pueden generar flash card a partir del formato `::` se pueden migrar y a
 </iframe>
 </div>
 
-## 55. DXF Viewer
+## 58. DXF Viewer
 
 > Es un visor de archivos tipo _.dxf_ muy utilizado en AutoCAD y diagramas mecánicos
 
@@ -1264,7 +1277,12 @@ Como se pueden generar flash card a partir del formato `::` se pueden migrar y a
 
 ![[kulman-Jul17_22_19_46.dxf]]
 
-## 56. Editing-toolbar
+## 59. Edit mode switch
+
+> Permite una navegación más simple entre modo de vistas
+> ![[😺Sin Categoría/Anexos/Edit mode switch.png]]
+
+## 60. Editing-toolbar
 
 > Genera la barra superior de herramientas
 
@@ -1273,34 +1291,34 @@ Como se pueden generar flash card a partir del formato `::` se pueden migrar y a
 
 ![[😺Sin Categoría/Anexos/Editin toolbar.png]]
 
-## 57. Emoji Toolbar
+## 61. Emoji Toolbar
 
 > Es una bandeja de emojis mucho más completa se activa con el comando `ctrl+E`
 
 ![[😺Sin Categoría/Anexos/Emoji Toolbar.png|261]]
 
-## 58. EngramQuest
+## 62. EngramQuest
 
 El plugin revolucionario...
 
 > Funciona para el aprendizaje y repaso de las notas en la bóveda.
 
-### 58.1. Configuración
+### 62.1. Configuración
 
-#### 58.1.1. Claude Desktop
+#### 62.1.1. Claude Desktop
 
 1. Instalar NodeJS y Claude Desktop
 2. Configurar MCP en file→settings→[[claude-desktop-config.json]]
 3. Se instalan las skills de Claude Code
 4. Se pegan esas instrucciones en Claude Desktop (aprende como funciona el plugin) y a trabajar
 
-#### 58.1.2. ChatGpt → Codex 🏆
+#### 62.1.2. ChatGpt → Codex 🏆
 
 1. Se instala localmente
 2. Se selecciona el archivo de la bóveda
 3. Ya se puede utilizar
 
-### 58.2. Funcionalidades
+### 62.2. Funcionalidades
 
 - <font color="#ffff00">Memorización</font>
   - **Review Deck**
@@ -1317,48 +1335,48 @@ El plugin revolucionario...
 - <font color="#ffff00">Logros</font>
   - **Seguimiento de eventos**
 
-## 59. Enhance Copy Note
+## 63. Enhance Copy Note
 
 > Genera el botón para poder copiar carpetas en la bóveda
 
 ![[😺Sin Categoría/Anexos/Enhance Copy Note.png]]
 
-## 60. Enhanced Canvas
+## 64. Enhanced Canvas
 
 > Agrega alunas funcionalidades extras al canvas
 
-### 60.1. Nodos Divididos por encabezados
+### 64.1. Nodos Divididos por encabezados
 
 Se pega el listado y con la opción de `click derecho` se extraen los headings
 
 ![[😺Sin Categoría/Anexos/Pasted image 20260721154409.png]]
 
-### 60.2. Enviar nota a Canvas
+### 64.2. Enviar nota a Canvas
 
 > Se hace con los comandos `ctrl+p`
 > ![[😺Sin Categoría/Anexos/Pasted image 20260722085723.png]]
 
-### 60.3. Boton automático de Redimensión
+### 64.3. Boton automático de Redimensión
 
 ![[😺Sin Categoría/Anexos/Pasted image 20260722085956.png|314]]
 
-### 60.4. Conexión entre notas y subnotas
+### 64.4. Conexión entre notas y subnotas
 
 ![[😺Sin Categoría/Anexos/Pasted image 20260722090625.png]]
 
-## 61. Enhancing Export
+## 65. Enhancing Export
 
 > Exporta diferentes formatos word, html, latex...
 
 - (...)
 
-## 62. Excalidraw
+## 66. Excalidraw
 
 > Bocetos en las notas
 
 ![[😺Sin Categoría/Anexos/Pasted image 20260722093351.png|377]]
 
-## 63. Execute Code
+## 67. Execute Code
 
 > Ejecuta el código que se escribe en los bloques de código, a diferencia de otros plugins este lo ejecuta dentro de la computadora por lo que se puede compilar/interpreter programación más complejos
 
@@ -1414,7 +1432,7 @@ int main() {
 
 `{c++ icon title:Dato} Ya que el programa esta configurado con cling (solo para linux) no es posible utilizarlo;`
 
-## 64. Extended Graph
+## 68. Extended Graph
 
 > Permite clasificar y visualizar de una forma más interactiva  el cerebro de obsidian
 
@@ -1422,7 +1440,7 @@ int main() {
 
 ![[😺Sin Categoría/Anexos/Pasted image 20260722171743.png]]
 
-## 65. Extract Highlights
+## 69. Extract Highlights
 
 > Extra todos los ==Highlights==
 
@@ -1438,30 +1456,30 @@ int main() {
 
 [^5]: [[😺Sin Categoría/Clasificación de Plugins de Obsidian]]
 
-## 66. Featured Image
+## 70. Featured Image
 
 > Permite asignar una imagen de vista para las notas en bases de datos...
 
 ![[😺Sin Categoría/Anexos/Feature Images.png]]
 
-## 67. Find orphaned files (files with no backlinks) and broken links
+## 71. Find orphaned files (files with no backlinks) and broken links
 
 > Este plugin encuentra de forma rápida (muy rápida en comparación de otros plugins) archivos huérfanos, quebrados o vacíos.
 
 ![[😺Sin Categoría/Anexos/Find orphaned files.png]]
 
-## 68. Find Orphaned Images
+## 72. Find Orphaned Images
 
 > Encuentra específicamente solo imágenes
 > ![[😺Sin Categoría/Anexos/Find Orphaned Images.png]]
 
-## 69. Folder New Note Button
+## 73. Folder New Note Button
 
 > Crea un botón para cada carpeta para que crear una _nota básica_
 
 ![[😺Sin Categoría/Anexos/Folder New Note Button.png]]
 
-## 70. Folder Note
+## 74. Folder Note
 
 > Con el comando `ctrl+clic` se genera un archivo con una vista de cards de los archivos del folder
 
@@ -1471,7 +1489,7 @@ int main() {
 type: folder_brief_live
 ```
 
-## 71. Frontmatter Input
+## 75. Frontmatter Input
 
 > Puedes hacer más interactivo los checklists
 
@@ -1515,13 +1533,13 @@ btns:
     - Child B: { tag: child-b }
 ```
 
-## 72. Gemmy
+## 76. Gemmy
 
 > Es una mascota para la bóveda
 
 ![[😺Sin Categoría/Anexos/Gemmy.png]]
 
-## 73. Geocode Note
+## 77. Geocode Note
 
 > Genera mapas de distintas ubicaciones
 
@@ -1530,18 +1548,18 @@ btns:
 ```geocode-map
 ```
 
-## 74. Global Search and Replace
+## 78. Global Search and Replace
 
 > Busca y remplaza palabras dentro toda las notas
 
 ![[😺Sin Categoría/Anexos/Global Search and Replace.png]]
 
-## 75. GoodBases
+## 79. GoodBases
 
 > Genera una nueva vista parecida a las tablas de _Notion_
 > ![[😺Sin Categoría/Sin título.base]]
 
-## 76. Google Docs Paste
+## 80. Google Docs Paste
 
 > Mantiene un mejor formato al pegar contenido copiado de un _Google Docs_
 
@@ -1549,30 +1567,35 @@ btns:
 | ------------------------------------ | ------------------------------------ |
 | ![[😺Sin Categoría/Anexos/Pasted image 20260724021233.png]] | ![[😺Sin Categoría/Anexos/Pasted image 20260724021306.png]] |
 
-## 77. Graph Project Buttons
+## 81. Graph Project Buttons
 
 > Permite automatizar la búsqueda de enlaces en la vista gráfica de un archivo en específico
 
 ![[😺Sin Categoría/Anexos/Graph Project Buttons.png|502]]
 
-## 78. Grappling hook
+## 82. Grappling hook
 
 > Me llamo principalmente de la navegación rápida con el comando `ctrl + tap`
 
 - **Dato:** Solo navega aquellas notas que están marcadas y abiertas
   ![[😺Sin Categoría/Anexos/Grappling hook.png]]
 
-## 79. Home tab
+## 83. Habits
+
+> Genera un seguimiento de nuevos hábitos
+> ![[😺Sin Categoría/Anexos/Habits.png]]
+
+## 84. Home tab
 
 > Hace una interfaz más bonita del buscador de archivos
 
 ![[😺Sin Categoría/Anexos/Home tab.png|512]]
 
-## 80. Home Page
+## 85. Home Page
 
 > Este plugin permite configurar una página como Dashbord del baúlt
 
-## 81. Horizontal Blocks
+## 86. Horizontal Blocks
 
 ```horizontal
 ### 1.1. Bloque 1  
@@ -1610,19 +1633,19 @@ This is a ***formatted*** **text**
 ![[H1.png]]
 ```
 
-## 82. IGDB Game Search
+## 87. IGDB Game Search
 
 > Por medio de API de Twitch busca y guarda videojuegos
 
 - **Note**: Aun no estoy lista para entrar a Twitch
 
-## 83. Image captions
+## 88. Image captions
 
 ![[😺Sin Categoría/Anexos/Light.jpg|La **Belleza**|center|200]]
 
 ![Light|150|648x972](https://i.pinimg.com/736x/db/4d/cb/db4dcb4b07884d0a077031a3397e0e6a.jpg)
 
-## 84. Image Converter
+## 89. Image Converter
 
 > Toda una gama de edición para las imágenes la más completa
 
@@ -1644,7 +1667,7 @@ en busca de esperanza.
 
 $\,$
 
-## 85. Image Gallery
+## 90. Image Gallery
 
 > Crea una vista de galería muy estética y tiene visor al tocar una imagen individualmente
 
@@ -1655,13 +1678,13 @@ path: 🟪Química/Anexos/Anexos 1
 type: vertical
 ```
 
-## 86. Image in Editor
+## 91. Image in Editor
 
 > Hace que los recursos incrustados y referenciados como videos, imágenes, pdf... se vean en el `modo fuente`
 
 - **Dato**: Solo se habilitará para cuando sea necesario ya que, tenerlo activado duplica ciertos recursos en `modo vista previa`
 
-## 87. Image Layouts
+## 92. Image Layouts
 
 > Permite adjuntar distintas agrupaciones de imagenes
 > ![[😺Sin Categoría/Anexos/image-18.png]]
@@ -1673,23 +1696,23 @@ type: vertical
 ![❤️](https://i.pinimg.com/736x/4f/7e/e8/4f7ee8bd182730074dda1a8ec0ed8fb2.jpg)
 ```
 
-## 88. Image Picker
+## 93. Image Picker
 
 > Abre un panel para ver las imágenes de un folder en específico
 
 ![[😺Sin Categoría/Anexos/Imagen Picker.png|352]]
 
-## 89. Imgur
+## 94. Imgur
 
 > Este plugin se utiliza para cuando al pegar las imágenes automáticamente suban a la plataforma de Imgur
 
 - (...) Aun no configurado
 
-## 90. Infographic
+## 95. Infographic
 
 > Crea infografias por medio de código
 
-### 90.1. Timeline
+### 95.1. Timeline
 
 ```infographic
 infographic sequence-timeline-rounded-rect-node
@@ -1737,7 +1760,7 @@ theme light
   palette antv
 ```
 
-### 90.2. Hierarchy
+### 95.2. Hierarchy
 
 ```infographic
 infographic hierarchy-structure
@@ -1802,7 +1825,7 @@ theme light
   palette antv
 ```
 
-### 90.3. Comparison
+### 95.3. Comparison
 
 ```infographic
 infographic compare-binary-horizontal-badge-card-fold
@@ -1830,7 +1853,7 @@ theme light
   palette antv
 ```
 
-### 90.4. Chart
+### 95.4. Chart
 
 ```infographic
 infographic chart-bar-plain-text
@@ -1858,7 +1881,7 @@ theme light
   palette antv
 ```
 
-## 91. Ink
+## 96. Ink
 
 > Genera inscrustaciones de pizarras pequeñas
 
@@ -1871,7 +1894,7 @@ theme light
 }
 ```
 
-## 92. JotDrop
+## 97. JotDrop
 
 > Genera una bandeja estilo _Google Keep_ pero dentro de obsidian
 
@@ -1879,7 +1902,7 @@ theme light
 
 ![[😺Sin Categoría/Anexos/JotDrop.png]]
 
-## 93. JupyMD
+## 98. JupyMD
 
 > Permite manejar [Jupyter](https://jupyter.org/)
 
@@ -1889,7 +1912,7 @@ theme light
 - voila
 ```
 
-## 94. Kanban
+## 99. Kanban
 
 > Es un tablero que permite ordenar las tareas en este bóveda se utiliza como:
 >
@@ -1898,52 +1921,52 @@ theme light
 
 ![[😺Sin Categoría/Anexos/kanban.png]]
 
-## 95. Ketcher
+## 100. Ketcher
 
 > Sirve para hacer bocetos de química
 
 ![[😺Sin Categoría/Anexos/Ketcher.png]]
 
-## 96. Kindle
+## 101. Kindle
 
 > Hace exportaciones al servidor propio de **php**
 
 - (...) Por ahora no se configura ya que no se utiizar php
 
-## 97. Latex ORC
+## 102. Latex ORC
 
 > Genera el latex a partir de imágenes con un botón $\Sigma$
 > ![[😺Sin Categoría/Anexos/image-20.png]]
 
 $\frac{-i\partial\!\!\!-\!\!\langle\bar{\theta}\rangle\!\!\!+\!\sqrt{i\partial\!\!\!-\!\!\!-\!\!\!\langle\bar{\theta}\rangle\!\!\!-\!\!\!-\!\!\!\langle\bar{\theta}\rangle}}{2i\epsilon}$
 
-## 98. Latex Suite
+## 103. Latex Suite
 
 > Da una preview de lo que se esta escribiendo
 
 ![[😺Sin Categoría/Anexos/Latex Suite.png]]
 
-## 99. LaTeX Symbol Picker
+## 104. LaTeX Symbol Picker
 
 > Genera el latex a partir de una pizarra $\Upsigma$
 
 ![[😺Sin Categoría/Anexos/Latex Picker.png|361]]
 
-## 100. LearnKit
+## 105. LearnKit
 
 > Es otra forma de generar flashcard y seguimiento de estudio
 
-### 100.1. Audio
+### 105.1. Audio
 
 > Solo las flashcard con grupo `English`
 > ![[😺Sin Categoría/Anexos/image-39.png]]
 
-### 100.2. Companion
+### 105.2. Companion
 
 > Actualmente esta configurado con una API gratuita de [Openrouter](https://openrouter.ai/activity)
 > ![[😺Sin Categoría/Anexos/image-38.png|451]]
 
-### 100.3. Distintos tipos de Flashcards
+### 105.3. Distintos tipos de Flashcards
 
 - Con la IA del propio plugin → flashcard unitarias o mazos pequeños
 - Con codex → mazos grandes
@@ -1955,19 +1978,19 @@ $\frac{-i\partial\!\!\!-\!\!\langle\bar{\theta}\rangle\!\!\!+\!\sqrt{i\partial\!
   - Se generan las flashcard con el comando "Flashcard Generation (Spaced Repetition)"
   - Se copia un código base modificando ciertos caracteres para cada pregunta
 
-### 100.4. Reminders
+### 105.4. Reminders
 
 > Se configura que se notifique un recordatorio de repaso
 >
 > - Actual cada 30 segundos y 5 tarjetas
 
-## 101. Pixel Banner
+## 106. Pixel Banner
 
 > Permite colocar banner a las notas
 
 ![[😺Sin Categoría/Anexos/Pixel Banner.png]]
 
-## 102. Lineage
+## 107. Lineage
 
 > Un nuevo formato para distribución de información
 
@@ -1975,18 +1998,18 @@ $\frac{-i\partial\!\!\!-\!\!\langle\bar{\theta}\rangle\!\!\!+\!\sqrt{i\partial\!
 - **Dato:** Inspirado en [gingkowriter](https://gingkowriter.com/)
   ![[😺Sin Categoría/Anexos/Lineage.png|531]]
 
-## 103. Link Navigation
+## 108. Link Navigation
 
 > Una forma más fácil de acceder a los enlaces de las notas
 > ![[😺Sin Categoría/Anexos/image-40.png]]
 
-## 104. Local Agent Office
+## 109. Local Agent Office
 
 > Son agentes para la bóveda
 
 [Chat](https://chatgpt.com/share/6a6d8acb-5f60-83e8-bfba-a2d21b49cdab)
 
-## 105. Local Media Embedder
+## 110. Local Media Embedder
 
 > Da una renderización más estética de videos locales...
 
@@ -2018,14 +2041,14 @@ path: C:\SeagateExpansion\Universidad\Obsidian\StudyUniverse\🎵Music\her - JVK
 type: audio
 ```
 
-## 106. Logically AI Research Assistant
+## 111. Logically AI Research Assistant
 
 > Es un chat que se basa en el análisis y búsqueda de notas y web (especialmente para investigaciones)
 
 - **Desventajas:** Solo 5 tokens al día
   ![[😺Sin Categoría/Anexos/Locally AI Research Assistent.png|320]]
 
-## 107. Lookout
+## 112. Lookout
 
 > Se utiliza para una mejor navegación de tablas, mermain...
 
@@ -2042,7 +2065,7 @@ type: audio
 | 7   | Diego  | Hernández | 25   | Guatemala | Cobán          | USAC        | Ingeniería | 9        | 83       | Seguridad   | Redes       | Linux        | Docker         | Bash    | Pentest       | Activo | 2026-04-01   | 2026-10-01 | 190   | Media     | Diego       | diego@example.com  | 5555-7777 | github.com/diego  | Sí       | Sí     | Sí     | GPT    | Ciberseguridad     |
 | 8   | Elena  | Castillo  | 21   | Guatemala | Petén          | USAC        | Ingeniería | 4        | 89       | Java        | Spring      | SQL          | APIs           | Git     | ERP           | Activo | 2026-03-01   | 2026-11-01 | 175   | Media     | Elena       | elena@example.com  | 5555-8888 | github.com/elena  | Sí       | Sí     | No     | Claude | Backend Java       |
 
-## 108. Lorebase
+## 113. Lorebase
 
 > En mi opinión la base de datos más completa, incluye búsqueda web, funcionalidad que se agradece.
 
@@ -2055,32 +2078,32 @@ type: audio
 | HardCover                       | https://hardcover.app/account/api                                              |
 ![[😺Sin Categoría/Anexos/image-41.png]]
 
-## 109. Markdown Export
+## 114. Markdown Export
 
 > Puede exportar las notas en formatos
 
 ![[😺Sin Categoría/Anexos/Markdown Export.png]]
 
-## 110. Markitdown Output
+## 115. Markitdown Output
 
 > Convierte cualquier archivo a markdown y solo dire **Eficiencia**
 
 ![[😺Sin Categoría/Anexos/image-44.png|487]]
 
-## 111. Marp
+## 116. Marp
 
 > Presentaciones con expotación de ppx, pdf...
 
 ![[😺Sin Categoría/Anexos/image-43.png|557]]
 
-## 112. Media Extended
+## 117. Media Extended
 
 > Sirve para poder incrustar mejor los videos a las notas
 
 - Aun no se como funciona la transcripción
   ![[😺Sin Categoría/Anexos/image-45.png|369]]
 
-## 113. Media Slider
+## 118. Media Slider
 
 > Crea deslizantes de imágenes, audio y video. También pueden hacerse anotaciones
 
@@ -2125,36 +2148,36 @@ compareMode: true
 ![[H2.png||1-2]]
 ```
 
-## 114. Meta Bind
+## 119. Meta Bind
 
 > Crea secciones interactivas con las propiedades de la nota
 
 - [**Documentación**](https://www.moritzjung.dev/obsidian-meta-bind-plugin-docs/)
 - [**Video**](https://youtu.be/u7vQe1Vlqnw?si=8HhECvGa9AQrHin3)
 
-### 114.1. Date
+### 119.1. Date
 
 `INPUT[date(showcase):fecha]`
 
-### 114.2. Date Picker
+### 119.2. Date Picker
 
 `INPUT[datePicker(showcase, defaultValue(today)):fechaSeleccion]`
 
-### 114.3. Time
+### 119.3. Time
 
 `INPUT[time(showcase):hora]`
 
-### 114.4. Date Time
+### 119.4. Date Time
 
 `INPUT[dateTime(showcase):fechaHora]`
 
-### 114.5. Editor
+### 119.5. Editor
 
 ```meta-bind
 INPUT[editor():editor]
 ```
 
-### 114.6. Selección Multiple
+### 119.6. Selección Multiple
 
 ```meta-bind
 INPUT[inlineSelect(option(Opción 1),option(Opción 2)):Opciones]
@@ -2164,7 +2187,7 @@ INPUT[inlineSelect(option(Opción 1),option(Opción 2)):Opciones]
 INPUT[inlineSelect(option(1,a),option(2,b)):Selección]
 ```
 
-### 114.7. List
+### 119.7. List
 
 ```meta-bind
 INPUT[list():lista]
@@ -2176,7 +2199,7 @@ INPUT[list():lista]
 INPUT[list(multiLine):list]
 ```
 
-### 114.8. Number
+### 119.8. Number
 
 ```meta-bind
 INPUT[number():numero]
@@ -2186,13 +2209,13 @@ INPUT[number():numero]
 INPUT[number(placeholder(Escribe tu edad!),defaultValue(15)):Edad]
 ```
 
-### 114.9. Progress Bar
+### 119.9. Progress Bar
 
 ```meta-bind
 INPUT[progressBar(minValue(-100),maxValue(100),stepSize(3),defaultValue(10)):Progreso1]
 ```
 
-### 114.10. Select y Multi Select
+### 119.10. Select y Multi Select
 
 ```meta-bind
 INPUT[select(
@@ -2203,7 +2226,7 @@ option(rosado,🩷)
 ):corazón]
 ```
 
-### 114.11. Multi Select
+### 119.11. Multi Select
 
 ```meta-bind
 INPUT[multiSelect(
@@ -2213,7 +2236,7 @@ option(💛),
 option(🩷)):multiSelect]
 ```
 
-### 114.12. List Suggester
+### 119.12. List Suggester
 
 ```meta-bind
 INPUT[suggester(
@@ -2234,37 +2257,37 @@ allowOther
 ):Familia2]
 ```
 
-### 114.13. Text
+### 119.13. Text
 
 ```meta-bind
 INPUT[text(placeholder(Puedes escribir algo...),limit(10)):texto]
 ```
 
-### 114.14. Text Area
+### 119.14. Text Area
 
 ```meta-bind
 INPUT[textArea:textoArea]
 ```
 
-### 114.15. Toggle
+### 119.15. Toggle
 
 ```meta-bind
 INPUT[toggle(onValue(hecho),offValue(falta),defaultValue(0)):toogle2]
 ```
 
-## 115. Mind Map
+## 120. Mind Map
 
 > Genera un mapa visual de temas y subtemas de la nota
 
 ![[😺Sin Categoría/Anexos/image-46.png|281]]
 
-## 116. Mobile PDF Exporter
+## 121. Mobile PDF Exporter
 
 > Permite exportar pdf en el mobile
 
 ![[😺Sin Categoría/Anexos/Mobile PDF Exporter.png|369]]
 
-## 117. Modular Theme Dashboard
+## 122. Modular Theme Dashboard
 
 > Es un espacio de trabajo por medio de tarjetas
 
@@ -2278,7 +2301,7 @@ Tienes muchas funciones una de ellas es insertar todas la imágenes de un folder
 Featured Image/Miniaturas/external
 ```
 
-## 118. MoreDraw
+## 123. MoreDraw
 
 > Crea gráficos por medio de la aplicación More Draw
 
@@ -2290,9 +2313,7 @@ title:Untitled
 height:400
 ```
 
-## 119.
-
-## 120. Narrative Canvas
+## 124. Narrative Canvas
 
 > Esta dedicado para escritores, talvez en un futuro!
 
@@ -2300,13 +2321,13 @@ height:400
 ![[Untitled-2026-08-02 194226.ncanvas]]
 ![[😺Sin Categoría/Anexos/Narrative Canvas.png]]
 
-## 121. Natural Language Dates
+## 125. Natural Language Dates
 
 > Con `@+fecha,dia...` escribe en automático la fecha de hoy
 
 ![[😺Sin Categoría/Anexos/Natural Language Dates.png]]
 
-## 122. Node Flow
+## 126. Node Flow
 
 > Es una herramienta que crea diagramas mucho más elaborados
 
@@ -2351,7 +2372,7 @@ height:400
   - translate,r, node2, 潜空间
 ```
 
-## 123. Note Nav Cards
+## 127. Note Nav Cards
 
 > Genera botones de navegación
 
@@ -2360,23 +2381,23 @@ anterior: Calendario de Actividad Física
 siguiente: Conferencia
 ```
 
-## 124. Note to Read
+## 128. Note to Read
 
 > Genera bonitas imágenes a partir de un título `##` para publicar en redes sociales
 > ![[😺Sin Categoría/Anexos/Note Nav Cards.png|470]]
 
-## 125. Notebook Navigator
+## 129. Notebook Navigator
 
 > Hace que la organización y visualización de los archivos, notas...sea más visible y fácil
 > ![[😺Sin Categoría/Anexos/Notebook Navigator.png|394]]
 
-## 126. Notekeeper
+## 130. Notekeeper
 
 > Es como un visor de las notas, se pueden categorizar...
 
 ![[😺Sin Categoría/Anexos/image-47.png]]
 
-## 127. Omd2Typst
+## 131. Omd2Typst
 
 > Puede generar pdf más formales
 
@@ -2384,90 +2405,90 @@ siguiente: Conferencia
 
 ![[🗝️Biblia/BLP/1.Génesis/Génesis 12.pdf]]
 
-## 128. Open in Terminal
+## 132. Open in Terminal
 
 > Abre el archivo en la terminal
 
 ![[😺Sin Categoría/Anexos/Open in Terminal.png|400]]
 
-## 129. Open vault Vs Code
+## 133. Open vault Vs Code
 
 > Lo que dice el nombre XD
 > ![[😺Sin Categoría/Anexos/Open vault Vs Code _Lo que dice el nombre XD.png]]
 
-## 130. Paste image rename
+## 134. Paste image rename
 
 > Puede darles un `nombre+no` a todas las imágenes de una nota
 
-## 131. PDF Printer
+## 135. PDF Printer
 
 > Extrae como imágenes cada página de un pdf
 
 ![[Rangos-1.webp]]
 ![[Rangos-2.webp]]
 
-## 132. PDF++
+## 136. PDF++
 
 > Ayuda a poder subrayar e incrustar información de un pdf a las notas
 
 ![[😺Sin Categoría/Anexos/PDF++.png]]
 
-## 133. PennyWallet
+## 137. PennyWallet
 
 > Un control de la vida financiera
 
 ![[😺Sin Categoría/Anexos/PennyWallet.png]]
 
-## 134. PodNotes
+## 138. PodNotes
 
 > Es para escuchar y hacer anotaciones sobre podcast
 
 ![[😺Sin Categoría/Anexos/PodNotes.png|493]]
 
-## 135. Pretty Properties
+## 139. Pretty Properties
 
 > Le da estilo a las propiedades
 > ![[😺Sin Categoría/Anexos/Pretty Properties.png]]
 
-## 136. Projects
+## 140. Projects
 
 > Se crean visualizadores muy minimalistas de los folders
 
 ![[😺Sin Categoría/Anexos/Projects.png]]
 
-## 137. Quartz Syncer
+## 141. Quartz Syncer
 
 > Publica las notas como páginas web en el repositorio de [GitHub](https://github.com/Hany-Alvarez/study-universe-quartz) , las cuales se visualizan en esta [web](https://hany-alvarez.github.io/study-universe-quartz/)
 
-## 138. Quote Share
+## 142. Quote Share
 
 > Genera tarjetas del texto seleccionado de la nota
 > ![[😺Sin Categoría/Anexos/Quote Share.png|396]]
 
-## 139. Reading Time
+## 143. Reading Time
 
 > Da el tiempo de lectura de la nota
 > ![[😺Sin Categoría/Anexos/Reading Time.png]]
 
-## 140. Recent Files
+## 144. Recent Files
 
 > Historial de los archivos visitados
 
 ![[😺Sin Categoría/Anexos/Recent Files.png|217]]
 
-## 141. Redline
+## 145. Redline
 
 > Genera comentarios en el texto para poder resolverlos ^n4pjw5
 
 ![[😺Sin Categoría/Anexos/Redline.png|512]]
 
-## 142. Reset Font Size
+## 146. Reset Font Size
 
 > Es un botón que regresa el tamaño modificado de la fuente por zoom
 
 Actualmente tamaño de 16
 
-## 143. RSS Dashboard
+## 147. RSS Dashboard
 
 > Es un visualizador de podcast, canales y noticias
 
@@ -2478,7 +2499,7 @@ Actualmente tamaño de 16
 
 ![[😺Sin Categoría/Anexos/RSS Dashboard.png]]
 
-## 144. Runsh
+## 148. Runsh
 
 > Permite ejecutar comando en **Power Shell**
 
@@ -2488,20 +2509,20 @@ code /path/to/project
 Ejemplo de abrir documento en Visual Code
 ```
 
-## 145. Search On Internet
+## 149. Search On Internet
 
 > Da la opción de buscar palabras en Google y Youtube
 
 ![[😺Sin Categoría/Anexos/Search On Internet.png]]
 
-## 146. Simple CanvaSearch
+## 150. Simple CanvaSearch
 
 > Con el comando del plugin se puede buscar más eficientemente elementos dentro del canvas
 
 ![[😺Sin Categoría/Anexos/Simple CanvaSearch.png]]
 $\,$
 
-## 147. Secret Notes
+## 151. Secret Notes
 
 > Hace bloques con contraseña para encriptar datos por medio de una contraseña
 
@@ -2509,13 +2530,13 @@ $\,$
 {"v":1,"title":"Datos Bancarios","hint":"números del 1-3","encrypted":"FpAIceGOIqtXK2jX:QRwXpOCo3gWZ0plmUyXpEw==:IZCEzL8SdeId5bw2tnI3Ef5uMAi8TvgXrublkJZl59gr2AdBeTXr3itj2omcBa8L/ANd9IiBB0NJr87RAUWsXQ9ZHa2/lHPkXg==","date":"2026-08-03T19:07:45.386Z"}
 ```
 
-## 148. Section Writing Stats
+## 152. Section Writing Stats
 
 > Por encabezado da la cantidad de palabras que hay debajo de este y el tiempo lectura
 
 - **Dato** : Solo se visualiza en modo edición
 
-## 149. Share as ZIP
+## 153. Share as ZIP
 
 > Comparte las notas como archivos ZIP
 
@@ -2523,11 +2544,11 @@ $\,$
 
 ![[😺Sin Categoría/Anexos/Share as ZIP.png]]
 
-## 150. Share Note
+## 154. Share Note
 
 > Pública las notas como [sitios web](https://share.note.sx/0kyvrem3#DZ8U6txes6UQChEZ0pbT9A)
 
-## 151. Sheets Extended
+## 155. Sheets Extended
 
 > Por medio de bloques permite usar funcionalidades de fusión de columnas... ^jz8wkz
 
@@ -2562,13 +2583,13 @@ $\,$
 | headers! | -   | X    | Y          | Z       |
 ```
 
-## 152. SideCars
+## 156. SideCars
 
 > Es un dashboard para agregar notas que salen como pendientes
 
 ![[😺Sin Categoría/Anexos/SideCars.png]]
 
-## 153. Sketch Mechanisms
+## 157. Sketch Mechanisms
 
 > Crea animaciones estilo dibujo
 
@@ -2586,7 +2607,7 @@ offset: 0              # vertical offset of the slider track
 rod_point: [0.5, 0]    # marked/traced point on the rod: [fraction, perpendicular offset]
 ```
 
-## 154. Slide Deck Viewer
+## 158. Slide Deck Viewer
 
 > Es un visor de las propiedades que puede tener un archivo `pptx`
 
@@ -2594,23 +2615,23 @@ rod_point: [0.5, 0]    # marked/traced point on the rod: [fraction, perpendicula
 
 ![[Abstract Art by Slidesgo.pptx]]
 
-## 155. SlideDope
+## 159. SlideDope
 
 > Genera y edita presentaciones en html
 
 ![[presentación.html]]
 
-## 156. Smart Connections
+## 160. Smart Connections
 
 > Es un seguimiento para una bóveda muy grande para que sea escalable
 
 - **Meta:** Cuando lleguemos a las 1,000 notas investigare su uso
 
-## 157. Smart Lookup
+## 161. Smart Lookup
 
 > Es un complemento para el plugin de smart connections
 
-## 158. Smart Table
+## 162. Smart Table
 
 > Genera tablas estilo Notion muy esteticas realmente
 
@@ -2618,43 +2639,261 @@ rod_point: [0.5, 0]    # marked/traced point on the rod: [fraction, perpendicula
 {"columns":[{"id":"c1-dne85","name":"Name","type":"text"},{"id":"c2-l4fkd","name":"Status","type":"status","options":[{"label":"Todo","color":"gray"},{"label":"In progress","color":"blue"},{"label":"Done","color":"green"}]},{"id":"c3-05k1p","name":"Due","type":"date"},{"id":"c8-gznvf","name":"Column 4","type":"url"}],"rows":[{"id":"r4-qs2t1","cells":{"c1-dne85":"Hola","c2-l4fkd":"Todo","c3-05k1p":"2026-08-03","c8-gznvf":""}},{"id":"r5-ry20o","cells":{"c1-dne85":"Mundo","c2-l4fkd":"In progress","c3-05k1p":"2026-08-03","c8-gznvf":""}},{"id":"r6-3saaq","cells":{"c1-dne85":"","c2-l4fkd":"","c3-05k1p":"","c8-gznvf":""}},{"id":"r7-mnh3c","cells":{"c1-dne85":"","c2-l4fkd":"","c3-05k1p":"","c8-gznvf":""}}],"sort":null,"filters":{},"showFilters":false}
 ```
 
-## 159. SmartPick
+## 163. SmartPick
 
 > Es una barra de herramientas para modificar rápidamente el texto
 
 - Ya uso actualmente otro plugin pero le veo mucho potencial
   ![[😺Sin Categoría/Anexos/SmartPick.png]]
 
-## 160. SnipDock
+## 164. SnipDock
 
 > Permite acceder a los snippets de una forma más rápida
 > ![[😺Sin Categoría/Anexos/SnipDock.png|260]]
 
-## 161. Status Bar
+## 165. Status Bar
 
 > Se utiliza para controlar que o no mostrar en la barra de _status_
 > ![[😺Sin Categoría/Anexos/Status Bar.png|470]]
 
-## 162. Sticky Note
+## 166. Sticky Note
 
 > Genera notas flotantes
 
 - Muy últil para notas y videos
   ![[😺Sin Categoría/Anexos/Sticky Note.png|336]]
 
-## 163. Style Settings
+## 167. Style Settings
 
 > Da personalización a la bóveda
 
 - **Dato:** depende del tema y plugin que tan personalizable puede ser
 
-## 164. Super Duper Audio Recorder
+## 168. Super Duper Audio Recorder
 
 > Mejora la grabación de audios
 
 ![[🎙️Audio/recording-multitrack-2026-08-04T07-55-20-294Z.wav]]
 
-## 165. SwiftSwitch
+## 169. SwiftSwitch
+
+> Es un menú de fácil acceso para cambiar rápidamente el tema, fuente... de la bóveda
+
+![[😺Sin Categoría/Anexos/SwiftSwitch.png|416]]
+
+## 170. Table Dashboard
+
+> Genera barras de progreso que va creciendo conforme a tablas de reporte
+
+- (...)
+
+<!-- table-tag: weekly -->
+
+| Activity | Done |
+|----------|------|
+| Exercise | ✓    |
+| Reading  | ✓    |
+
+| Activity | Done |
+|----------|------|
+| Exercise | ✓    |
+| Reading  | ✓    |
+
+```table-dashboard
+type: progress_bar
+source: current-file
+tableTag: weekly
+keyColumn: Activity
+key: Exercise
+valueColumn: Done
+value: "✓"
+goal: 5
+label: 🤸Weekly Exercise
+```
+
+## 171. Table Extended
+
+> Hace posible incrustar checklist dentro de las tablas
+
+|     |     |
+| --- | --- |
+| \[ ] | \[x] |
+
+## 172. Table Generator
+
+> Crea un menú interactivo para crear fácilmente tablas como en word
+
+![[😺Sin Categoría/Anexos/Table Generator.png|223]]
+
+## 173. Task Genius
+
+> Es un dashboard para poder hacer proyectos, tareas...
+
+![[😺Sin Categoría/Anexos/Task Genius.png]]
+
+## 174. Taskbone
+
+> Su principal función es manejar proyectos pero me llama más la atención su conversión de ORC a markdown, se conecta al [servidor de Taskbone](https://app.taskbone.com/)
+
+<font color="#e36c09">◇ Resolver la E.D. 0</font>
+
+$$
+\begin{array}{l}
+\frac{dy}{dx}-x=0 \quad \textcolor{#00b0f0}{|+x}\\
+\frac{dy}{dx}=x \quad \textcolor{#00b0f0}{|*\,dx}\\
+\int dy=\int x\,dx\\
+y=\frac{x^{2}}{2}+c
+\end{array}
+$$
+
+![[😺Sin Categoría/Anexos/Anexos/matemamte.png|204]]
+
+## 175. Teleprompter
+
+> Es un visor para leer con un ritmo personalizable
+
+![[😺Sin Categoría/Anexos/Teleprompter1.png|426]]
+
+## 176. Templaster
+
+> Automatiza la bóveda por medio de plantillas
+
+## 177. Text Extractor
+
+> Extrae el texto de imágenes
+
+- No es muy eficiente pero se entiende
+
+> [!note] Ejemplo
+> quién ha visto cosa igual? ¢ Se puede engendrar un pais en un dia, o dar a luz a un pueblo de una vez? Pues apenas sintió los dolores, Sión dio a luz a sus hijos. EE A N SN =TT CHEN iy v ¢ no seré quien haga dar a luz? —dice el Sefior—. Y si soy quien hago dar a luz, PAY Acle= o N- Wer -1 =1y (W= N o EETo —dice tu Dios—. 10 jFestejad a Jerusalén, alegraos por ella, todos los que la amáis; gozad con su gozo los que os dolíais por ella! 11 Para mamar hasta hartaros \[e\[-]Noro] 01=1 ToNo\[- EVN e-T01 0704 para apurar con delicia sus ubres bien repletas.
+
+## 178. Thumbnails
+
+> Por medio de solo copiar el link de short o video de YouTube se genera una incrustación con toda la información del video
+
+```vid
+https://youtube.com/shorts/Mv0WyoNyKwU?si=dywuDECeYerrQehQ
+Title: higuruma edit - i wanna be your slave ||  #capcut #jujutsukaisen #higuruma #jujutsu #edit #foryou
+Author: d3ltaco
+Thumbnail: https://i.ytimg.com/vi/Mv0WyoNyKwU/mqdefault.jpg
+AuthorUrl: https://www.youtube.com/@d3ltacro1x
+```
+
+```vid
+https://youtu.be/24-0zhSawQA?si=ZcvIMVsZAS68TcfO
+Title: 𝘚𝘢𝘵𝘪𝘳𝘪𝘯 - 𝙈𝘼𝙏𝙐𝙎𝙃𝙆𝘼 𝙐𝙇𝙏𝙍𝘼𝙁𝙐𝙉𝙆 x "𝘎𝘰𝘫𝘰 𝘚𝘢𝘵𝘰𝘳𝘶" | [ 𝙎𝙇𝙊𝙒𝙀𝘿 ] | [ 𝘙𝘶𝘴𝘴𝘪𝘢𝘯 𝘗𝘩𝘰𝘯𝘬 ]
+Author: 𝙕 𝙖 𝙖 𝙓 ┆フォンク
+Thumbnail: https://i.ytimg.com/vi/24-0zhSawQA/mqdefault.jpg
+AuthorUrl: https://www.youtube.com/@ZaaxPhonk
+```
+
+## 179. Tier List
+
+> Genera y jerarquiza elementos dentro de la bóveda
+
+- <span style="background: #861d1d;">S</span>
+  - [[Tabla Periódico | Tabla]]
+- <span style="background: #ad6a28;">A</span>
+- <span style="background: #a17e19;">B</span>
+  - [[Química]]
+- <span style="background: #888814;">C</span>
+  - [[Electricidad]]
+- <span style="background: #127c36;">D</span>
+  - ![[🕶️Programación/Anexos/pngwing.com (7).png|169]]
+- To Rank
+- Settings #tier-list
+
+## 180. TileLineBase
+
+> Convierte a las notas en espacios kanban
+
+- (...)
+
+![[😺Sin Categoría/Anexos/TileLineBase.png]]
+
+[[Tablero]]
+
+## 181. Timelines
+
+> Genera líneas de tiempo muy estéticas
+
+- Es ideal para canvas, notas no
+
+![[😺Sin Categoría/Anexos/Timelines.png|277]]
+
+## 182. Typify
+
+> Permite modificar y crear propiedades totalmente personalizables
+
+![[😺Sin Categoría/Anexos/Typify.png]]
+
+## 183. UI Tweaker
+
+> Es una herramienta mucho más completa sobre la edición de elementos de la bóveda
+
+## 184. Uncertainty Calculator
+
+> Permite añadir bloques de código que calculan resistencias...
+
+- (...)
+
+```calc
+#  resistor power: P = I²R   (lines beginning with # are comments)
+I = 0.60 ± 0.01
+R = 100 ± 2
+P = I**2 * R
+P | budget
+```
+
+## 185. Vertical Tabs
+
+> Genera visualizaciones de tarjeta
+
+![[😺Sin Categoría/Anexos/Vertical Tabs.png]]
+
+## 186. Webpage HTML Export
+
+> Exporta cualquier nota a html
+
+![[Z/a-little-death-the-neighbourhood.html|a-little-death-the-neighbourhood]]
+
+## 187. Office Reader
+
+> Permite leer los documentos de extensión `docx`
+> ![[cajetin.docx]]
+
+## 188. WPM Reading Time - How Long to Read This Text
+
+> Calcula el promedio de tiempo de lectura
+
+![[😺Sin Categoría/Anexos/WPM Reading Time - How Long to Read This Text.png|448]]
+
+## 189. Youglish
+
+> Permite buscar videos que expliquen una palabra
+> ![[😺Sin Categoría/Anexos/image-1.png|348]]
+
+## 190. YT Knowledge Notes
+
+> Genera una nota muy completa con transcripción, información...sobre videos de Youtube
+
+![[😺Sin Categoría/Anexos/YT Knowledge Notes.png|370]]
+
+## 191. YTranscript
+
+> Transcribe las partes más reconocibles de un video
+
+![[😺Sin Categoría/Anexos/YTranscript.png|423]]
+
+## 192. ZettelFlow
+
+> Es para hacer notas más elaboradas con canvas
+
+- (...)
+
+## 193. Zotero Integration
+
+> Sirve para las citas ,cuando iniciemos investigaciones lo configuro
 
 ---
 
