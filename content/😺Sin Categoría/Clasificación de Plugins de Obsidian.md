@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-15T10:29:13.155Z
-modified: 2026-08-03T21:40:22.162Z
+modified: 2026-08-04T08:06:47.366Z
 tags:
   - activity/hike
   - activity/walk
@@ -10,7 +10,7 @@ tags:
   - option-b
 ---
 
-![|1480x150](https://i.imgur.com/kSvXE5K.png)
+![|500|639x371](https://i.imgur.com/kSvXE5K.png)
 
 ## 1. 3D Codeblocks
 
@@ -2403,8 +2403,8 @@ siguiente: Conferencia
 
 > Extrae como imágenes cada página de un pdf
 
-![[f61ed05e-11ec-436e-bb18-932a937f29cf/Rangos-1.webp]]
-![[f61ed05e-11ec-436e-bb18-932a937f29cf/Rangos-2.webp]]
+![[Rangos-1.webp]]
+![[Rangos-2.webp]]
 
 ## 132. PDF++
 
@@ -2567,6 +2567,94 @@ $\,$
 > Es un dashboard para agregar notas que salen como pendientes
 
 ![[😺Sin Categoría/Anexos/SideCars.png]]
+
+## 153. Sketch Mechanisms
+
+> Crea animaciones estilo dibujo
+
+- (...) se pueden crear, revisar documentación
+
+```mechanism
+type: fourbar
+```
+
+```mechanism
+type: cam
+crank: 1
+rod: 3
+offset: 0              # vertical offset of the slider track
+rod_point: [0.5, 0]    # marked/traced point on the rod: [fraction, perpendicular offset]
+```
+
+## 154. Slide Deck Viewer
+
+> Es un visor de las propiedades que puede tener un archivo `pptx`
+
+![[😺Sin Categoría/Anexos/Slide Deck Viewer.png]]
+
+![[Abstract Art by Slidesgo.pptx]]
+
+## 155. SlideDope
+
+> Genera y edita presentaciones en html
+
+![[presentación.html]]
+
+## 156. Smart Connections
+
+> Es un seguimiento para una bóveda muy grande para que sea escalable
+
+- **Meta:** Cuando lleguemos a las 1,000 notas investigare su uso
+
+## 157. Smart Lookup
+
+> Es un complemento para el plugin de smart connections
+
+## 158. Smart Table
+
+> Genera tablas estilo Notion muy esteticas realmente
+
+```smart-table
+{"columns":[{"id":"c1-dne85","name":"Name","type":"text"},{"id":"c2-l4fkd","name":"Status","type":"status","options":[{"label":"Todo","color":"gray"},{"label":"In progress","color":"blue"},{"label":"Done","color":"green"}]},{"id":"c3-05k1p","name":"Due","type":"date"},{"id":"c8-gznvf","name":"Column 4","type":"url"}],"rows":[{"id":"r4-qs2t1","cells":{"c1-dne85":"Hola","c2-l4fkd":"Todo","c3-05k1p":"2026-08-03","c8-gznvf":""}},{"id":"r5-ry20o","cells":{"c1-dne85":"Mundo","c2-l4fkd":"In progress","c3-05k1p":"2026-08-03","c8-gznvf":""}},{"id":"r6-3saaq","cells":{"c1-dne85":"","c2-l4fkd":"","c3-05k1p":"","c8-gznvf":""}},{"id":"r7-mnh3c","cells":{"c1-dne85":"","c2-l4fkd":"","c3-05k1p":"","c8-gznvf":""}}],"sort":null,"filters":{},"showFilters":false}
+```
+
+## 159. SmartPick
+
+> Es una barra de herramientas para modificar rápidamente el texto
+
+- Ya uso actualmente otro plugin pero le veo mucho potencial
+  ![[😺Sin Categoría/Anexos/SmartPick.png]]
+
+## 160. SnipDock
+
+> Permite acceder a los snippets de una forma más rápida
+> ![[😺Sin Categoría/Anexos/SnipDock.png|260]]
+
+## 161. Status Bar
+
+> Se utiliza para controlar que o no mostrar en la barra de _status_
+> ![[😺Sin Categoría/Anexos/Status Bar.png|470]]
+
+## 162. Sticky Note
+
+> Genera notas flotantes
+
+- Muy últil para notas y videos
+  ![[😺Sin Categoría/Anexos/Sticky Note.png|336]]
+
+## 163. Style Settings
+
+> Da personalización a la bóveda
+
+- **Dato:** depende del tema y plugin que tan personalizable puede ser
+
+## 164. Super Duper Audio Recorder
+
+> Mejora la grabación de audios
+
+![[🎙️Audio/recording-multitrack-2026-08-04T07-55-20-294Z.wav]]
+
+## 165. SwiftSwitch
 
 ---
 
