@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2025-07-02T03:23:22.253Z
-modified: 2026-08-06T01:32:01.726Z
+modified: 2026-08-06T09:47:49.284Z
 ---
 
 - **Banner**
@@ -50,20 +50,14 @@ folder 🟡English/Technical Language 3
 prompt true
 ```
 
-> [!attention]
-> Se debe mejorar el flujo del glosario
->
-> - Analizar las flashcards
-
 ```button
-name New Word→ 💬English Glosary
-type note(New Word) template
+name New Word → English Glosary
+type note(My New Note, tab) template
 action Glosary
-templater true
+customColor green
+customTextColor #FFFFFF
 folder ✒Glosario/English Glosary
 prompt true
-customColor #e5a1b2
-customTextColor #ffffff
 ```
 
 ## 1.1. Unit 1 - General
