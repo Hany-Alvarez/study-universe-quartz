@@ -1,11 +1,11 @@
 ---
 publish: true
 created: 2026-01-12T04:50:20.674Z
-modified: 2026-08-07T20:46:36.338Z
+modified: 2026-08-08T03:59:51.375Z
 ---
 
 - **Banner**
-  - ![|300](https://i.pinimg.com/736x/72/da/b1/72dab17b4f148445c636f08e470cc783.jpg)
+  - ![|548x975](https://i.pinimg.com/736x/72/da/b1/72dab17b4f148445c636f08e470cc783.jpg)
 
 ---
 
@@ -38,6 +38,7 @@ customTextColor #FFFFFF
 
 | No.1 | ![ |300](https://i.imgur.com/IGMqJqX.png) | Comentarios |
 | ---- | ------------------------------------------ | ----------- |
+| 1.0  | [[Conocimientos Previos]]                  |             |
 | 1.1  | [[Definiciones y Terminología]]            |             |
 | 1.2  | [[Problemas de Valor Inicial]]             |             |
 | 1.3  | [[Curva Solución sin una Solución]]        |             |
@@ -51,15 +52,15 @@ customTextColor #FFFFFF
 | 2.1  | [[Modelos Lineales]]                       |             |
 | 2.2  | [[Modelos No Lineales]]                    |             |
 
-| No.1 | ![ |300](https://i.imgur.com/yhnAeJl.png)                                    | Comentarios3 |
-| ---- | ----------------------------------------------------------------------------- | ------------ |
-| 3.1  | [[Teoría Preliminar: Ecuaciones Lineales]]                                    |              |
-| 3.2  | [[Ecuaciones Lineales Homogéneas con Coeficientes Constantes]]                |              |
-| 3.3  | [[Coeficientes Indeterminados, Método de Superposición]]                      |              |
-| 3.4  | [[Coeficientes Indeterminados, Método del Anulador]]                          |              |
-| 3.5  | [[Variación de Parámetros]]                                                   |              |
-| 3.6  | [[Método de Reducción de Orden]]                                              |              |
-| 3.7  | [[Solución de Sistemas de Ecuaciones Diferenciales Lineales por Eliminación]] |              |
+| No.1 | ![|300](https://i.imgur.com/8kZePoo.png) | Comentarios3 |
+| ---- | ----------------------------------------------------------------------------- | ----------------------------------------- | ------------ |
+| 3.1  | [[Teoría Preliminar: Ecuaciones Lineales]]                                    |                                           |              |
+| 3.2  | [[Ecuaciones Lineales Homogéneas con Coeficientes Constantes]]                |                                           |              |
+| 3.3  | [[Coeficientes Indeterminados, Método de Superposición]]                      |                                           |              |
+| 3.4  | [[Coeficientes Indeterminados, Método del Anulador]]                          |                                           |              |
+| 3.5  | [[Variación de Parámetros]]                                                   |                                           |              |
+| 3.6  | [[Método de Reducción de Orden]]                                              |                                           |              |
+| 3.7  | [[Solución de Sistemas de Ecuaciones Diferenciales Lineales por Eliminación]] |                                           |              |
 
 | No.1 | ![ |300](https://i.imgur.com/Usn8PRV.png)            | Comentarios |
 | ---- | ----------------------------------------------------- | ----------- |
@@ -76,7 +77,12 @@ customTextColor #FFFFFF
 # 2. Libros
 
 - [[Programa Inter 3.pdf]]
+
+- [[MI3_ProgramaDetallado]]
+
+- [[Lineamientos Generales MI3Q 2S2026.pdf]]
   $\,$
+
 - [[Ecuaciones Diferenciales con problemas de valores en la frontera. Dennis G. Zill. CENGAGE. Novena edición]]
 
 ---
@@ -90,5 +96,14 @@ customTextColor #FFFFFF
 
 # 3. Anexo
 
-- [[portal_ingenieria.usac.edu.pdf#page=1&rect=832,1058,969,1085|portal_ingenieria.usac.edu, p.1]]
+- ![[📚Biblioteca/Anexos/portal_ingenieria.usac.edu.pdf#page=1&rect=832,1058,969,1085|portal_ingenieria.usac.edu, p.1]]
+
+## 3.1 Información Docentes
+
+![[Sharon Pryscila Pú Morales]]
+
+![[Stheeven Adonias Coc Chan]]
+
+## 3.2 Botones
+
 - [Chat de Generación de Banners](https://chatgpt.com/share/6a66cc1a-8e38-83e8-a0d2-79622d57fd15)

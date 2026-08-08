@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-07-15T10:29:13.155Z
-modified: 2026-08-04T17:31:33.910Z
+modified: 2026-08-08T08:07:51.650Z
 tags:
   - activity/hike
   - activity/walk
@@ -1075,8 +1075,8 @@ The main text that requires strict alignment goes here.
 Hello!
 Hello!
 Hello!
-Hello!
-Hello!
+==Hello!==
+==Hello!==
 
 Este es un dibujo
 

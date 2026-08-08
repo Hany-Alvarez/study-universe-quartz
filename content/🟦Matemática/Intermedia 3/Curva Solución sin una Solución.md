@@ -1,12 +1,12 @@
 ---
 publish: true
 created: 2026-07-27T02:00:41.107Z
-modified: 2026-08-07T20:49:11.221Z
+modified: 2026-08-08T03:23:54.203Z
 ---
 
 ###### 1. **Banner**
 
-![|500](https://i.imgur.com/N67WJzG.png)
+![|500](https://i.imgur.com/t8GY20Y.png)
 
 ###### 2. **Referencia**:
 
@@ -25,12 +25,11 @@ modified: 2026-08-07T20:49:11.221Z
 
 > La ==grafica de la solución== $\varnothing (x)$ de una EDO se llama _curva solución_. Puesto que $\varnothing$ es una función derivable y continua en su intervalo de definición $I$
 
-![[Definición Curva Solución.drawio.svg]]
-![[Definición Curva Solución.drawio.svg]]
+![[🟦Matemática/Intermedia 3/Anexos/image-7.png|484]]
 
 ### 1. Ejemplo 1
 
-![[Curva Solución sin una Solución 2026-07-27 06.36.39.excalidraw|1000]]
+![[Curva Solución sin una Solución 2026-08-07 17.56.02.excalidraw|1000]]
 
 - [[0114 - CLASE MAGISTRAL AREA MATEMATICA INTERMEDIA 3 - Sección Q - 2026_07_20 16_26 CST - Recording.mp4#t=48:18.30|48:18]]
   Es cuando se busca una sola curva solución en específico
